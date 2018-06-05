@@ -47,6 +47,9 @@ li.button a{
  font-size: 21px; 
  padding: 10px 20px 0 20px;
 }
+li.button a.box {
+border: solid 1px #ccc;
+}
 li.button a:hover{
  text-decoration: none;
 }
