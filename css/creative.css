@@ -6,6 +6,27 @@ body {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
+  body {
+      position: relative;
+  }
+  ul.nav-pills {
+      top: 20px;
+      position: fixed;
+  }
+  div.col-sm-9 div {
+      height: 250px;
+      font-size: 28px;
+  }
+  #about {color: #fff; background-color: #222222;}
+  #music {color: #fff; background-color: #222222;}
+  #porfolio {color: #fff; background-color: #222222;}
+  #contact {color: #fff; background-color: #222222;}
+
+  @media screen and (max-width: 810px) {
+    #about, #music, #porfolio, #contact {
+        margin-left: 150px;
+    }
+  }
 hr {
   border-color: #F05F40;
   border-width: 3px;
