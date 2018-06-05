@@ -8,14 +8,17 @@ body {
 }
   body {
       position: relative;
+    background-color: #222222;
   }
   ul.nav-pills {
       top: 20px;
       position: fixed;
+    background-color: #222222;
   }
   div.col-sm-9 div {
       height: 250px;
       font-size: 28px;
+    background-color: #222222;
   }
   #about {color: #fff; background-color: #222222;}
   #music {color: #fff; background-color: #222222;}
