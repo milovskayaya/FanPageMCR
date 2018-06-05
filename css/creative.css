@@ -76,10 +76,6 @@ a {
   transition: all 0.35s;
   color: #F05F40;
 }
-a:hover,
-a:focus {
-  color: #eb3812;
-}
 h1,
 h2,
 h3,
