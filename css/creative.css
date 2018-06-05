@@ -20,10 +20,6 @@ body {
       font-size: 28px;
     background-color: #222222;
   }
-  #about {color: #fff; background-color: #222222;}
-  #music {color: #fff; background-color: #222222;}
-  #porfolio {color: #fff; background-color: #222222;}
-  #contact {color: #fff; background-color: #222222;}
 
   @media screen and (max-width: 810px) {
     #about, #music, #porfolio, #contact {
