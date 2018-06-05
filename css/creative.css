@@ -7,18 +7,20 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
   body {
-      position: relative;
-    background-color: #222222;
+      position: absolute;
+      bottom: 0px;
+    right: 100px;
+  
   }
   ul.nav-pills {
       top: 20px;
       position: fixed;
-    background-color: #222222;
+
   }
   div.col-sm-9 div {
       height: 250px;
       font-size: 28px;
-    background-color: #222222;
+
   }
 
   @media screen and (max-width: 810px) {
