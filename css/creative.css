@@ -56,28 +56,6 @@ aside {
 .no-padding {
   padding: 0;
 }
-ul.submenu {
-    display: none;
-    position: absolute;
-    width: 120px;
-    top: 37px;
-    left: 0;
-    background-color: white;
-    border: 1px solid red;
-}
-ul.submenu > li {
-    display: block;
-}
-ul.submenu > li > a {
-    display: block;
-    padding: 10px;
-    color: white;
-    background-color: red;
-    text-decoration: none;
-}
-ul.submenu > li > a:hover {
-    text-decoration: underline;
-}
 .navbar-default {
   background-color: white;
   border-color: rgba(34, 34, 34, 0.05);
