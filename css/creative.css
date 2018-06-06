@@ -4,23 +4,17 @@ body {
   width: 100%;
 }
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif; 
+  position: relative;
 }
-  body {
-      position: relative;
-  }
   ul.nav-pills {
       top: 20px;
-    right: 100px;
       position: fixed;
-
   }
   div.col-sm-9 div {
       height: 250px;
       font-size: 28px;
-
   }
-
   @media screen and (max-width: 810px) {
     #about, #music, #porfolio, #contact {
         margin-left: 150px;
