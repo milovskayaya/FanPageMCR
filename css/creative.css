@@ -54,6 +54,7 @@ aside {
 .dropdown {
 position: fixed;
 left: 1300px;
+top: 5px;
 }
 .navbar-default {
   background-color: white;
