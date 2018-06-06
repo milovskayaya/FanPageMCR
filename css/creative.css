@@ -52,8 +52,8 @@ aside {
   padding: 0;
 }
 .dropdown {
-position: relative;
-left:1300px;
+position: absolute;
+left: 1300px;
 }
 .navbar-default {
   background-color: white;
