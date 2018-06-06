@@ -6,22 +6,7 @@ body {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
- body {
-      position: relative;
-  }
-  ul.nav-pills {
-      top: 20px;
-      position: fixed;
-  }
-  div.col-sm-9 div {
-      height: 250px;
-      font-size: 28px;
-  }
-hr {
-  border-color: #F05F40;
-  border-width: 3px;
-  max-width: 50px;
-}
+
 hr.light {
   border-color: white;
 }
