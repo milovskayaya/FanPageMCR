@@ -30,14 +30,19 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
 </head>
+    <body data-spy="scroll" data-target=".navbar" data-offset="50">
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>             
+      </button>
       <a class="navbar-brand" href="#">FanPage</a>
     </div>
-    <ul class="nav navbar-nav">
+    <div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav">
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Menu</a>
             <ul class="dropdown-menu">
               <li><a href="#about">История группы</a></li>
@@ -48,7 +53,11 @@
           </li>
         </ul>
       </div>
-</nav>
+    </div>
+  </div>
+</nav>    
+
+
 
     <header>
         <div class="header-content">
