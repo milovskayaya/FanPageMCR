@@ -6,10 +6,6 @@ body {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
-li.dropdown {
-  position: relative;
-  left: 1400px;
-}
 hr.light {
   border-color: white;
 }
@@ -54,6 +50,10 @@ aside {
 }
 .no-padding {
   padding: 0;
+}
+li.dropdown {
+position: fixed;
+left:1300px;
 }
 .navbar-default {
   background-color: white;
