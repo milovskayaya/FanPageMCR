@@ -7,13 +7,11 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
   body {
-      position: absolute;
-      bottom: 0px;
-    right: 100px;
-  
+      position: relative;
   }
   ul.nav-pills {
       top: 20px;
+    right: 100px;
       position: fixed;
 
   }
