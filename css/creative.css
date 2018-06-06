@@ -52,6 +52,7 @@ aside {
   padding: 0;
 }
 .dropdown {
+font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 position: fixed;
 left: 1300px;
 }
