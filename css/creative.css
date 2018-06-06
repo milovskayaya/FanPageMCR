@@ -33,8 +33,10 @@ p {
   margin-bottom: 20px;
 }
 .dropdown {
-  position: fixed;
-  left:1300px;
+  position: absolute; 
+  top: 0px; 
+  left: 0px;
+  text-align: right;
   }
 .bg-primary {
   background-color: #F05F40;
