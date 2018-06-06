@@ -32,9 +32,9 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
- .navbar navbar-inverse navbar-fixed-top {
-  position:fixed;
-  left:1100px;
+.dropdown {
+  position: fixed;
+  left:1500px;
   }
 .bg-primary {
   background-color: #F05F40;
