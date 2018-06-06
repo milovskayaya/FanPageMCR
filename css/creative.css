@@ -6,6 +6,10 @@ body {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
+.dropdown {
+  position:fixed;
+  left: 1400px;
+}
 hr.light {
   border-color: white;
 }
@@ -32,10 +36,6 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
-.dropdown {
-  position: fixed; 
-  left: 1300px;
-  }
 .bg-primary {
   background-color: #F05F40;
 }
