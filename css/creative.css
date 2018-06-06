@@ -7,7 +7,7 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 .dropdown {
-  position:fixed;
+  position: relative;
   left: 1400px;
 }
 hr.light {
