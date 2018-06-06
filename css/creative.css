@@ -38,14 +38,10 @@ p {
   position:fixed;
   left:1150px;
   }
-  .dropdown-toggle {
-  position:fixed;
-  left:1150px;
-  }
-  .dropdown-menu {
-  position:fixed;
-  left:1150px;
-  }
+.dropdown {
+position:fixed;
+left:1500px;
+}
 .bg-primary {
   background-color: #F05F40;
 }
