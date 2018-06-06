@@ -53,7 +53,7 @@ aside {
 }
 .dropdown {
 position: fixed;
-left: 1300px;
+margin-left: 1300px;
 }
 .navbar-default {
   background-color: white;
