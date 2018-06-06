@@ -52,7 +52,7 @@ aside {
   padding: 0;
 }
 .dropdown {
-position: fixed;
+position: relative;
 left:1300px;
 }
 .navbar-default {
