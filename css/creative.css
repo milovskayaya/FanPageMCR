@@ -33,10 +33,7 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
-.dropdown-toggle {
-  position:relative;
-  left:1150px;
-  }
+
 .bg-primary {
   background-color: #F05F40;
 }
