@@ -34,7 +34,7 @@ p {
   margin-bottom: 20px;
 }
 .dropdown {
-  position:relative;
+  position:fixed;
   right:1150px;
 .bg-primary {
   background-color: #F05F40;
