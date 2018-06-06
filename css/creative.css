@@ -6,8 +6,22 @@ body {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
-.dropdown-toggle {postion:fixed; left:1550px;}
-  .dropdown-menu {postion:fixed; left:1550px;}
+.dropdown-toggle { position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 50%;
+    height: 50%;
+    background-color: #FFF9AE;
+    visibility: hidden;
+}}
+  .dropdown-menu { position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 50%;
+    height: 50%;
+    background-color: #FFF9AE;
+    visibility: hidden;
+}}
 hr.light {
   border-color: white;
 }
