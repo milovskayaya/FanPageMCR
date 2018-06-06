@@ -51,11 +51,7 @@ aside {
 .no-padding {
   padding: 0;
 }
-.dropdown-toggle {
-position: fixed;
-left:1300px;
-}
-.dropdown-menu {
+.dropdown {
 position: fixed;
 left:1300px;
 }
