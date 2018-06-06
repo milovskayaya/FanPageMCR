@@ -6,7 +6,8 @@ body {
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
-
+.dropdown-toggle {postion:fixed; left:1550px;}
+  .dropdown-menu {postion:fixed; left:1550px;}
 hr.light {
   border-color: white;
 }
